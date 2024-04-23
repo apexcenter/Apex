@@ -1,0 +1,200 @@
+body {
+    color: #8f8f8f;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.navbar-brand {
+    color: #387ADF;
+}
+
+.navbar-brand:hover {
+    color: #50C4ED;
+}
+
+.opening-h1 {
+    color: #65B741;
+    font-size: 10rem;
+    font-weight: 700;
+}
+
+.opening-h3 {
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+#opening {
+    background-color: #fff;
+    padding: 100px 0 150px;
+    color: #607274;
+    text-align: center;
+}
+
+#title {
+    background-color: #387ADF;
+    color: #fff;
+    padding: 100px 0 150px;
+}
+
+.title-text {
+    font-size: 4.5rem;
+    font-weight: 700;
+    line-height: 2;
+    margin-left: 40px;
+}
+
+.logo {
+    border-radius: 100%;
+    margin-left: 60px;
+    width: 50%;
+}
+
+#features {
+    background-color: #fff;
+    padding: 120px 0;
+    text-align: center;
+
+}
+
+.features-box {
+    margin: auto;
+}
+
+.features-h3 {
+    color: #000;
+}
+
+.features-p {
+    margin: auto;
+    width: 75%;
+}
+
+.features-a {
+    text-decoration: none;
+}
+
+#testimonials {
+    background-color: #50C4ED;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin: auto;
+    width: 70%;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 5%;
+}
+
+.fa-gear {
+    color: #808080;
+}
+
+.fa-chalkboard-user {
+    color: #0F4C75;
+}
+
+.fa-person {
+    color: #387ADF;
+}
+
+.fa-person-dress {
+    color: #ff4c68;
+}
+
+#cta {
+    background-color: #fff;
+    margin: 50px 0 75px;
+    text-align: center;
+}
+
+.cta-text {
+    color: #387ADF;
+    font-size: 2.5rem;
+    font-weight: 600;
+    line-height: 1.5;
+    margin:auto;
+    margin-bottom: 30px;
+    width: 60%;
+}
+
+.fa-map-location-dot {
+    color: #87A922;
+    margin-right: 5px;
+}
+
+#footer {
+    background-color: #387ADF;
+    padding: 50px 0 75px;
+}
+
+.footer-text {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.footer-div {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+#question {
+    background-color: #fff;
+    margin-top: 30px;
+}
+
+.question-text {
+    color: #387ADF;
+    text-align: center;
+}
+
+.question-p {
+    color: #000;
+    font-size: 20px;
+    margin-left: 1rem;
+}
+
+.copyright {
+    text-align: center;
+}
+
+@media (max-width: 992px) {
+    #title {
+        text-align: center;
+    }
+
+    .logo {
+        margin-left: auto;
+        width: 35%;
+    }
+
+    .features-box {
+        margin: auto auto 40px;
+        width: 60%;
+    }
+}
+
+@media (max-width: 1178px) {
+    #title {
+        padding-bottom: 100px;
+    }
+}
+
+
+
+
+
+
